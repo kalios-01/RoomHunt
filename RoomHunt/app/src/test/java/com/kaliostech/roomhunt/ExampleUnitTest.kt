@@ -1,4 +1,4 @@
-package com.kaliostech.roomhunt
+package com.kaliostech.RoomHunt
 
 import org.junit.Test
 
